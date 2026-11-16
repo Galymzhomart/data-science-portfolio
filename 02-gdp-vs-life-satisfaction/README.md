@@ -32,11 +32,11 @@ Python, pandas, matplotlib, SciPy, scikit-learn
 
 ## Data
 
-`lifesat.csv` (27 countries: GDP per capita and life satisfaction), expected in this folder.
+`lifesat.csv` (27 countries: GDP per capita and life satisfaction) was provided with the course materials and is not included in this repository. The notebook is saved with all outputs, so every result and chart can be read without re-running it.
 
 ## How to run
 
-From the repository root:
+To re-run the notebook you need the course file `lifesat.csv` in this folder. From the repository root:
 
 ```
 pip install -r requirements.txt
